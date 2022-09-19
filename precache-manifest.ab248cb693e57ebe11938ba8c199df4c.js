@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef71bc9429192e3c3a126b4a7a7cf796",
+    "revision": "4aa9ca20931f515b942e541d05ee8c65",
     "url": "https://aiy-wish.github.io/csb-m7zui1/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://aiy-wish.github.io/csb-m7zui1/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "6bfa29983d47cb4cbbdf",
+    "revision": "1f5af4fea201f79c1b94",
     "url": "https://aiy-wish.github.io/csb-m7zui1/static/css/main.f7a380cb.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://aiy-wish.github.io/csb-m7zui1/static/js/4.251b27a3.chunk.js"
   },
   {
-    "revision": "6bfa29983d47cb4cbbdf",
-    "url": "https://aiy-wish.github.io/csb-m7zui1/static/js/main.dbd02090.chunk.js"
+    "revision": "1f5af4fea201f79c1b94",
+    "url": "https://aiy-wish.github.io/csb-m7zui1/static/js/main.6ba99b18.chunk.js"
   },
   {
     "revision": "c27aef99dd2d17b020f9",

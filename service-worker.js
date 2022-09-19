@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://aiy-wish.github.io/csb-m7zui1/precache-manifest.5533e178802ca2689fba4bdedee99d73.js"
+  "https://aiy-wish.github.io/csb-m7zui1/precache-manifest.ab248cb693e57ebe11938ba8c199df4c.js"
 );
 
 self.addEventListener('message', (event) => {
