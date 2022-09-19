@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a8de85316cea97688c08c787efa310e6",
+    "revision": "ef71bc9429192e3c3a126b4a7a7cf796",
     "url": "https://aiy-wish.github.io/csb-m7zui1/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://aiy-wish.github.io/csb-m7zui1/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "fc15e5594c6cd9d773e9",
+    "revision": "6bfa29983d47cb4cbbdf",
     "url": "https://aiy-wish.github.io/csb-m7zui1/static/css/main.f7a380cb.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://aiy-wish.github.io/csb-m7zui1/static/js/4.251b27a3.chunk.js"
   },
   {
-    "revision": "fc15e5594c6cd9d773e9",
-    "url": "https://aiy-wish.github.io/csb-m7zui1/static/js/main.026bc9f6.chunk.js"
+    "revision": "6bfa29983d47cb4cbbdf",
+    "url": "https://aiy-wish.github.io/csb-m7zui1/static/js/main.dbd02090.chunk.js"
   },
   {
     "revision": "c27aef99dd2d17b020f9",
@@ -86,9 +86,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
     "url": "https://aiy-wish.github.io/csb-m7zui1/static/media/talksCardBack.13780cdd.svg"
-  },
-  {
-    "revision": "7c00293b996134efc5b9f69a4060316d",
-    "url": "https://aiy-wish.github.io/csb-m7zui1/static/media/tcg_new.7c00293b.jpg"
   }
 ]);

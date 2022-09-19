@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://aiy-wish.github.io/csb-m7zui1/static/css/main.f7a380cb.chunk.css",
-    "main.js": "https://aiy-wish.github.io/csb-m7zui1/static/js/main.026bc9f6.chunk.js",
-    "main.js.map": "https://aiy-wish.github.io/csb-m7zui1/static/js/main.026bc9f6.chunk.js.map",
+    "main.js": "https://aiy-wish.github.io/csb-m7zui1/static/js/main.dbd02090.chunk.js",
+    "main.js.map": "https://aiy-wish.github.io/csb-m7zui1/static/js/main.dbd02090.chunk.js.map",
     "runtime-main.js": "https://aiy-wish.github.io/csb-m7zui1/static/js/runtime-main.5d6a952c.js",
     "runtime-main.js.map": "https://aiy-wish.github.io/csb-m7zui1/static/js/runtime-main.5d6a952c.js.map",
     "static/js/2.668e4693.chunk.js": "https://aiy-wish.github.io/csb-m7zui1/static/js/2.668e4693.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.251b27a3.chunk.js": "https://aiy-wish.github.io/csb-m7zui1/static/js/4.251b27a3.chunk.js",
     "static/js/4.251b27a3.chunk.js.map": "https://aiy-wish.github.io/csb-m7zui1/static/js/4.251b27a3.chunk.js.map",
     "index.html": "https://aiy-wish.github.io/csb-m7zui1/index.html",
-    "precache-manifest.edcfcd3688cf3d6f168247b44e1eb499.js": "https://aiy-wish.github.io/csb-m7zui1/precache-manifest.edcfcd3688cf3d6f168247b44e1eb499.js",
+    "precache-manifest.5533e178802ca2689fba4bdedee99d73.js": "https://aiy-wish.github.io/csb-m7zui1/precache-manifest.5533e178802ca2689fba4bdedee99d73.js",
     "service-worker.js": "https://aiy-wish.github.io/csb-m7zui1/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "https://aiy-wish.github.io/csb-m7zui1/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "https://aiy-wish.github.io/csb-m7zui1/static/css/4.e91a4b36.chunk.css.map",
@@ -30,13 +30,12 @@
     "static/media/pwaLogo.webp": "https://aiy-wish.github.io/csb-m7zui1/static/media/pwaLogo.ee62cb58.webp",
     "static/media/saayaHealthLogo.webp": "https://aiy-wish.github.io/csb-m7zui1/static/media/saayaHealthLogo.25018d29.webp",
     "static/media/skill.svg": "https://aiy-wish.github.io/csb-m7zui1/static/media/skill.34409398.svg",
-    "static/media/TalkCard.scss": "https://aiy-wish.github.io/csb-m7zui1/static/media/talksCardBack.13780cdd.svg",
-    "static/media/tcg_new.jpg": "https://aiy-wish.github.io/csb-m7zui1/static/media/tcg_new.7c00293b.jpg"
+    "static/media/TalkCard.scss": "https://aiy-wish.github.io/csb-m7zui1/static/media/talksCardBack.13780cdd.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5d6a952c.js",
     "static/js/2.668e4693.chunk.js",
     "static/css/main.f7a380cb.chunk.css",
-    "static/js/main.026bc9f6.chunk.js"
+    "static/js/main.dbd02090.chunk.js"
   ]
 }
